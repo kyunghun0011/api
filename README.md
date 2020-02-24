@@ -1,5 +1,5 @@
 # 넷플릭스 API서버
-# HTTP API https://apinode-266411.appspot.com/
+# HTTP API 
 
 |URL|HOST|METHOD|기능|
 |-------|---|---|----|
